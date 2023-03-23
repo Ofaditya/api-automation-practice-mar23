@@ -2,8 +2,7 @@ package files;
 
 public class payload {
 
-    public static String Addplace()
-    {
+    public static String Addplace() {
         return """
                 {
                   "location": {
